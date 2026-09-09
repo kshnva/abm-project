@@ -1,11 +1,5 @@
 # ABM for the Influence of Urban Design on Riot Emergence
 
-[![Pytest](https://github.com/MarcellSzegedi/abm-project/actions/workflows/pytest.yaml/badge.svg)](https://github.com/MarcellSzegedi/abm-project/actions/workflows/pytest.yaml)
-&nbsp;
-[![Linting & Formatting](https://github.com/MarcellSzegedi/abm-project/actions/workflows/ruff.yaml/badge.svg)](https://github.com/MarcellSzegedi/abm-project/actions/workflows/ruff.yaml)
-
-<br>
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 ![Version](https://img.shields.io/badge/version-1.1.0-orange)
 
